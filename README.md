@@ -13,8 +13,6 @@ The difference between the input values drive the colors of design elements incl
 
 The eight visuals shown above were all created using the KPI Triangle Card custom visual. <br>
  <br>
-Download pbiviz file: [Link](https://github.com/analyticsnate/power-bi-custom-visuals/blob/master/packagedVisuals/BANKPIMultiCard.pbiviz) <br>
-
-#### 2. KPI Triangle Card - Example 2
 ![alt text](https://github.com/analyticsnate/power-bi-custom-visuals/blob/master/images/example2.PNG)
-This example uses the color box and small triangle options of the KPI Triangle Card to show unemployment rates for different age groups. There are many ways to combine the formatting options of this custom visual depending on the report developer's preferences.
+This example uses the color box and small triangle options of the KPI Triangle Card to show unemployment rates for different age groups. There are many ways to combine the formatting options of this custom visual depending on the report developer's preferences. <br>
+Download pbiviz file: [Link](https://github.com/analyticsnate/power-bi-custom-visuals/blob/master/packagedVisuals/BANKPIMultiCard.pbiviz) <br>
