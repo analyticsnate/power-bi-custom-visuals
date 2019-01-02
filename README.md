@@ -17,4 +17,4 @@ The eight visuals shown above were all created using the KPI Triangle Card custo
 ![alt text](https://github.com/analyticsnate/power-bi-custom-visuals/blob/master/images/example2.PNG)
 This example uses the color box and small triangle options of the KPI Triangle Card to show unemployment rates for different age groups. There are many ways to combine the formatting options of this custom visual depending on the report developer's preferences. <br>\
 <br>
-Download pbiviz file: [Link](https://github.com/analyticsnate/power-bi-custom-visuals/blob/master/packagedVisuals/BANKPIMultiCard.pbiviz) 
+Download pbiviz file: [Link](https://github.com/analyticsnate/power-bi-custom-visuals/blob/master/kpitrianglecard.pbiviz) 
